@@ -1,6 +1,6 @@
 https://codingquest.io/problem/1
 
-Lottery tickets
+# Lottery tickets
 
 You have completed your assigned tasks and are free to explore the market near the port where the ship is docked. You grab your belongings and head out for your adventure.
 
