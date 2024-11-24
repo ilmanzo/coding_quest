@@ -1,6 +1,7 @@
+# Engine diagnostics
+
 https://codingquest.io/problem/1
 
-Engine diagnostics
 Your supervisor has granted your request for shore leave once you complete a couple of important safety checks on the ship. The first is an engine diagnostics report.
 
 The FTL (faster than light) engines are tricky and complicated technology, however like most engine systems, the most important reading to monitor is engine temperature. Occasional spikes or dips in the temperature are a normal part of the way the FTL works, but it is important that no spike or dip lasts too long. The normal safe operating temperature for the engine is within 1500 and 1600 degrees Kelvin.
