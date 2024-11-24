@@ -1,2 +1,2 @@
-# coding_quest
+# codingquest
 repository for solutions to https://codingquest.io/
